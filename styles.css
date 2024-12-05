@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.continer{
+	width:100%;
+	
+}
+.moviePic{
+	height:200px;
+	width:200px;
+	object-fit:cover;
+	object-position:top;
+	opacity:90%;
+}
+.movieDetail{
+	position:absolute;
+	top:200px;
+	width:60%;
+	text-align:center;
+	font-size:12px;
+}
